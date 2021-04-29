@@ -32,7 +32,10 @@ Hieronder een artwork van Jon McCormack (https://aiartists.org/generative-art-de
 <img width="908" alt="Schermafbeelding 2021-04-13 om 14 58 46" src="https://user-images.githubusercontent.com/55492440/115716604-a2a49f00-a379-11eb-8c39-10c39c11c2f6.png">
 
 ### Week-2
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Deze week ben ik begonnen met de Youtube video's van The Coding Train. Ik heb tijdens het kijken direct meegedaan met de oefeningen. Na afloop van deze eerste video's is het me gelukt om een stukje concept vorm te geven; mijn eerste bloem.
+
+<img width="296" alt="bloem" src="https://user-images.githubusercontent.com/55492440/116552103-f58dd180-a8f8-11eb-937c-7cabc3a4ecb9.png">
+
 
 ### Week-3
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`

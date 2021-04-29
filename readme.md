@@ -34,8 +34,9 @@ Hieronder een artwork van Jon McCormack (https://aiartists.org/generative-art-de
 ### Week-2
 Deze week ben ik begonnen met de Youtube video's van The Coding Train. Ik heb tijdens het kijken direct meegedaan met de oefeningen. Na afloop van deze eerste video's is het me gelukt om een stukje concept vorm te geven; mijn eerste bloem.
 
-<img width="296" alt="bloem" src="https://user-images.githubusercontent.com/55492440/116552103-f58dd180-a8f8-11eb-937c-7cabc3a4ecb9.png">
-<img width="224" alt="bloem 2" src="https://user-images.githubusercontent.com/55492440/116554976-1b68a580-a8fc-11eb-904f-1481d1a9bcfa.png">
+<img width="296" alt="bloem" src="https://user-images.githubusercontent.com/55492440/116552103-f58dd180-a8f8-11eb-937c-7cabc3a4ecb9.png"> <img width="224" alt="bloem 2" src="https://user-images.githubusercontent.com/55492440/116554976-1b68a580-a8fc-11eb-904f-1481d1a9bcfa.png"> <img width="1680" alt="Schermafbeelding 2021-04-29 om 15 11 53" src="https://user-images.githubusercontent.com/55492440/116556014-499ab500-a8fd-11eb-910a-bb71667ebb01.png">
+
+
 
 
 ### Week-3

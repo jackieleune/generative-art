@@ -46,5 +46,5 @@ Deze week ben ik begonnen met de Youtube video's van The Coding Train. Ik heb ti
 ## Bronnenlijst
 
 * https://www.youtube.com/watch?v=meqHPIOzk-U&t=335s
-* `Link naar bron 2`
+* https://aiartists.org/generative-art-design
 * `Link naar bron 3`

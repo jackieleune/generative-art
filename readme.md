@@ -47,5 +47,4 @@ Deze week ben ik begonnen met de Youtube video's van The Coding Train. Ik heb ti
 
 * https://www.youtube.com/watch?v=meqHPIOzk-U&t=335s
 * https://aiartists.org/generative-art-design
-* https://p5js.org/examples/interaction-follow-1.html
 * https://p5js.org/examples/input-mouse-press.html

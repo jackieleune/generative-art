@@ -45,6 +45,6 @@ Deze week ben ik begonnen met de Youtube video's van The Coding Train. Ik heb ti
 
 ## Bronnenlijst
 
-* `Link naar bron 1`
+* https://www.youtube.com/watch?v=meqHPIOzk-U&t=335s
 * `Link naar bron 2`
 * `Link naar bron 3`
